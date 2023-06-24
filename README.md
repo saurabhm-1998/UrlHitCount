@@ -1,4 +1,4 @@
-# URL Hit Counter Feature
+# URL Hit Counter
 
 This project implements a simple URL hit counter feature using Spring Boot.
 
