@@ -35,6 +35,5 @@ The URL Hit Counter feature is a simple Spring Boot application that allows trac
 - `/api/v1/visitor-count-app/count`: Retrieves the overall hit count for all visitors.
 - `/api/v1/visitor-count-app/username/{username}/count`: Retrieves the hit count for a specific user identified by their username.
 
-The project showcases the use of Spring Boot and demonstrates the separation of concerns through the controller, service, and repository layers. The hit count data is stored in an in-memory `ArrayList` for simplicity, but you can easily replace it with a database or another persistent storage mechanism.
+The project showcases the use of Spring Boot and demonstrates the separation of concerns through the controller, service, and repository layers. The hit count data is stored in an in-memory `ArrayList` for simplicity.
 
-Feel free to customize and extend this project according to your needs.
